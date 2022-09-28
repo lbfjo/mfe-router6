@@ -1,10 +1,11 @@
 import React from "react";
 import { AppShell } from "ui";
+import { MoviesContent } from "./MoviesContent";
 function App() {
   return (
     <AppShell
       routes={[
-        { path: "/", element: () => <div>Is this really Home</div> },
+        { path: "/", element: MoviesContent },
         { path: "/playlist", element: () => <div>Playlist</div> },
       ]}
       title="Movies"

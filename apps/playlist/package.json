@@ -21,6 +21,8 @@
     "ui": "workspace:*",
     "card":"workspace:*",
     "store":"workspace:*",
+    "movies-content":"workspace:*",
+    "playlist-content":"workspace:*",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

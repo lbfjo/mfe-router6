@@ -47,7 +47,7 @@ const movies = [
 
 const MoviesContent = () => (
   <>
-    <Title>Movies</Title>
+    <Title>Movies2</Title>
     <Grid
       sx={{
         gap: "1rem",

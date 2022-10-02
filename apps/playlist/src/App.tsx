@@ -1,5 +1,5 @@
 import React from "react";
-import { AppShell } from "ui";
+import { AppShell } from "ui/dist/src";
 
 import { MoviesContent } from "movies-content";
 import { PlaylistContent } from "playlist-content";
